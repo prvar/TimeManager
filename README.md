@@ -1,2 +1,2 @@
 # TimeManager
-2nd Sem Time Table for Section C and D
+5th Sem (2023-24 I) Time Table for Civil Engineering Students
